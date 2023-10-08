@@ -1,0 +1,13 @@
+{
+    "desap":"Deskripsi Aplikasi",
+    "isidesap":"Aplikasi Pengembangan Website Aplikasi Perpustakaan Digital Menggunakan Web Service adalah platform perpustakaan digital yang memanfaatkan teknologi web service untuk pengelolaan koleksi perpustakaan yang efisien. Dengan antarmuka yang intuitif dan responsif, aplikasi ini memudahkan pengelola perpustakaan dalam mencatat dan mengelola berbagai jenis materi, serta memberikan pengalaman yang nyaman bagi pengguna. Integrasi dengan web service memungkinkan akses data real-time, sementara laporan kinerja dan analisis penggunaan koleksi memberikan wawasan berharga. Keamanan data terjamin, membuat aplikasi ini solusi lengkap untuk pengelolaan perpustakaan digital.",
+     "isi": {
+      "latarBelakang": "Dalam era digital yang semakin berkembang pesat, penggunaan aplikasi telah menjadi bagian integral dari kehidupan sehari-hari. Guna mengikuti tren dan memenuhi kebutuhan pelanggan yang terus berkembang, Neon Store berkomitmen  menghadirkan solusi inovatif. Keputusan untuk mengembangkan  Neon Store dengan  JavaScript ES6 UI dan Golang untuk backend didasarkan pada keputusan untuk memberikan pengalaman berbelanja terbaik dengan tetap menjaga keamanan dan kinerja tinggi.",
+      "deskripsi": "Aplikasi “Neon Store” adalah platform e-commerce yang memungkinkan pengguna menemukan, mencari dan membeli berbagai produk secara online dengan  mudah, cepat dan aman. Aplikasi ini menggabungkan teknologi JavaScript ES6 untuk frontend dan bahasa pemrograman Golang untuk backend, menciptakan pengalaman berbelanja yang luar biasa bagi pengguna.",
+      "tujuan": "Tujuan aplikasi Neon Store adalah memberikan pengalaman berbelanja yang lebih nyaman, dan efisien, serta memberikan akses mudah ke produk-produk berkualitas dengan harga yang terjangkau.",
+      "tools":"HTML, CSS, JavaScript ES6+, Golang, Figma.",
+      "waktuPengerjaan": "Proyek ini direncanakan akan diselesaikan dalam waktu 3 bulan, dimulai dari perancangan konsep dan diakhir dengan pengujian aplikasi.",
+      "kesimpulan": "Aplikasi Neon Store adalah sebuah platform e-commerce yang menggabungkan JavaScript ES6 untuk front-end dan bahasa pemrograman Golang untuk backend, dengan tujuan memberikan pengalaman berbelanja online yang nyaman dan aman bagi pelanggan terutama dalam menemukan produk lampu neon sperti, neon box."
+  }
+  
+}
