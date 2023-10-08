@@ -6,11 +6,12 @@ setInner("isidesap", data.isidesap);
 
 setInner("latarblakang", data.isi.latarblakang);
 setInner("isilatar1", data.isi.isilatar1);
-setInner("isilatar2", data.isi.isilatar2);
 setInner("jdltujuan", data.isi.jdltujuan);
 setInner("tujuan", data.isi.tujuan);
 setInner("jdllingkup", data.isi.jdllingkup);
 setInner("isilingkup", data.isi.isilingkup);
+setInner("jdlkesimpulan", data.isi.jdlkesimpulan);
+setInner("isikesimpulan", data.isi.isikesimpulan);
 
 document.addEventListener('DOMContentLoaded', function () {
     // Ambil elemen burger dan menu

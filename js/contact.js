@@ -24,11 +24,11 @@ document.getElementById("actionButton").addEventListener("click", function (even
         redirect: 'follow'
     };
 
-    fetch("https://eoig90x4en8zl9s.m.pipedream.net", requestOptions)
+    fetch("https://eoig90x4en8zl9s", requestOptions)
         .then(response => response.text())
         .then(result => {
             console.log(result);
-            alert("Data berhasil dikirim ke Pipedream.");
+            alert("Data berhasil dikirim");
             // Mengatur nilai-nilai input kembali menjadi kosong setelah pengiriman berhasil
             document.getElementById("nama").value = "";
             document.getElementById("email").value = "";
@@ -46,27 +46,6 @@ document.addEventListener('DOMContentLoaded', function () {
     var contactDescription = document.querySelector('.is-size-4');
     var socialMediaLinks = document.querySelectorAll('.social-media a');
 
-    // Data JSON kontak
-    var contactData = {
-        "contactInfo": {
-            "title": "Contact Us",
-            "description": "Jika teman-teman semua memiliki masukan terhadap website perpustakaan kami, maka teman-teman bisa mengirimkan keluhan tersebut. Terimakasih semuanyaa",
-            "socialMedia": [
-                {
-                    "platform": "Facebook",
-                    "url": "https://facebook.com"
-                },
-                {
-                    "platform": "Instagram",
-                    "url": "https://instagram.com"
-                },
-                {
-                    "platform": "Twitter",
-                    "url": "https://twitter.com"
-                }
-            ]
-        }
-    };
 
     // Isi elemen-elemen dengan data JSON
     contactTitle.textContent = contactData.contactInfo.title;
