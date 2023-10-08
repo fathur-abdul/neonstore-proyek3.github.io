@@ -17,7 +17,7 @@ body {
 
 /* Gaya untuk navbar item aktif */
 .navbar-item.is-active {
-    background-color: #3498db;
+    background-color: #03842e;
     color: #fff; /* Mengubah warna teks menjadi putih */
     font-weight: bold;
 }
@@ -73,7 +73,7 @@ body {
 }
 
 .button:hover {
-  background-color: #2980b9;
+  background-color: #ff0000;
 }
 
 /* Gaya untuk rata kiri (justify) semua teks di dalam .content kecuali judul */
