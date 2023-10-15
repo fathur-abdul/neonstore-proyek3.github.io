@@ -1,8 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background-image: url('images/neonflex56.jpg');
- 	background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #000000;
 }
 
 .navbar {
